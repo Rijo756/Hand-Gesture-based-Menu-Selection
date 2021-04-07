@@ -5,4 +5,4 @@ Thumbs up for Ok and number from 0 to 5 are detected and menu is controlled acco
 
 ![plot](./Menu_selection_1.JPG)
 
-![plot](./Menu_selection_1.JPG)
+![plot](./Menu_selection_2.JPG)
